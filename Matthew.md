@@ -261,10 +261,33 @@ journey
 [路6‧27－28](https://www.bible.com/bible/48/LUK.6.27-28.CUNPSS-神); [路6‧32－36](https://www.bible.com/bible/48/LUK.6.32-36.CUNPSS-神)   
 43「你們聽見有話說：『當愛你的鄰舍，恨你的仇敵。』 44只是我告訴你們，要愛你們的仇敵，為那逼迫你們的禱告。 45這樣就可以作你們天父的兒子；因為他叫日頭照好人，也照歹人；降雨給義人，也給不義的人。 46你們若單愛那愛你們的人，有甚麼賞賜呢？就是稅吏不也是這樣行嗎？ 47你們若單請你弟兄的安，比人有甚麼長處呢？就是外邦人不也是這樣行嗎？ 48所以，你們要完全，像你們的天父完全一樣。」
 ### 观察
+- 时间，地点，人物，事件，原因和经过
+- 这里的听众最有可能是谁？
+- 11节的你们和前几节的他们，是同样的人吗？
+- 盐有什么主要用途？ 
 ### 解释
-### 归纳
-### 应用
 
+|得居圣山者的品行|论福(接受神国要求的人所应有的态度)|英文（除一福和八福外，用的都是将来式）|
+|---|---|---|
+|[诗篇15](https://www.bible.com/bible/48/PSA.15.CUNPSS-神)|[马太福音5](https://www.bible.com/bible/48/MAT.5.CUNPSS-神)|[NIV](https://www.bible.com/bible/111/MAT.5.NIV) |
+|1耶和华啊，谁能寄居你的帐幕？谁能住在你的圣山？|3虚心的人有福了！因为天国是他们的。|3 “Blessed are the poor in spirit,for theirs **is** the kingdom of heaven.  |
+|2就是行为正直、做事公义、心里说实话的人。|4哀恸的人有福了！因为他们必得安慰。|4 Blessed are those who mourn,for they **will** be comforted. |
+|3他不以舌头谗谤人，不恶待朋友，也不随伙毁谤邻里。|5温柔的人有福了！因为他们必承受地土。|5 Blessed are the meek,for they **will** inherit the earth.  |
+|4他眼中藐视匪类，却尊重那敬畏耶和华的人。他发了誓，虽然自己吃亏也不更改。|6饥渴慕义的人有福了！因为他们必得饱足。|6 Blessed are those who hunger and thirst for righteousness, for they **will** be filled.|
+|5他不放债取利，不受贿赂以害无辜。行这些事的人必永不动摇。|7怜恤人的人有福了！因为他们必蒙怜恤。|7 Blessed are the merciful, for they **will** be shown mercy. |
+||8清心的人有福了！因为他们必得见　神。|8 Blessed are the pure in heart, for they **will** see God. |
+||9使人和睦的人有福了！因为他们必称为　神的儿子。|9 Blessed are the peacemakers, for they **will** be called children of God.|
+||10为义受逼迫的人有福了！因为天国是他们的。|10 Blessed are those who are persecuted because of righteousness, for theirs **is** the kingdom of heaven. |
+
+- 盐的主要用途？
+  1.调味
+  2.防腐
+  3. [智慧](https://www.bible.com/bible/48/COL.4.CUNPSS-神)
+
+### 归纳
+- 宝训现在从对门徒品质的概述转到对门徒的直接讲话，告诉他们 这些品质在他们的生活和见证中将会有什么影响
+### 应用
+- 在这竞争的时代，崇尚大鱼吃小鱼的文化，如何做到使人和睦的人？
 ## 第六章
 ### 经文
 ### 观察
