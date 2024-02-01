@@ -388,7 +388,9 @@ journey
 ### 盐的主要用途？
   1.调味
   2.防腐
-  3. [智慧](https://www.bible.com/bible/48/COL.4.CUNPSS-神)
+  3.[智慧](https://www.bible.com/bible/48/COL.4.CUNPSS-神)
+### 光
+[各种光源](<img width="1280" alt="image" src="https://github.com/whysolution/bible_reading/assets/1124179/83397115-69d2-4f18-96ee-2015c6655bbf">)
 
 ### 归纳
 - 宝训现在从对门徒品质的概述转到对门徒的直接讲话，告诉他们 这些品质在他们的生活和见证中将会有什么影响
