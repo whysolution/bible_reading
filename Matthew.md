@@ -281,6 +281,12 @@ journey
 ||9使人和睦的人有福了！因为他们必称为　神的儿子。|9 Blessed are the peacemakers, for they **will** be called children of God.|
 ||10为义受逼迫的人有福了！因为天国是他们的。|10 Blessed are those who are persecuted because of righteousness, for theirs **is** the kingdom of heaven. |
 
+[有福了](https://wd.bible/exegesis)
+- Strong Number :	G3107
+- 词型 (Morphology) :	形容词 / 主格 (主语) 复数 阳性
+- 词根 (Lemma) :	μακάριος
+- 词义 (Glossary) :	有福 / 蒙福的 / 有福的 / 祝福 / 蒙福 / 可称颂 / 有福气 / 万幸
+
 1. 虚心的人(the poor in spirit) 一、原意「乞讨」，倚靠他人救助的，亦或仅贫穷的。有时并非单指经济方面的不良状况。而是指因受欺压，而觉悟特别需要神之救助，而盼望很快求得。二、「软弱，可怜，乞怜，无能的」
    [可以譯成「認識到自己需要上帝的人有福了」。](https://wd.bible/exegesis)
 - 太 5:3 “虚心的人有福了！因为天国是他们的。
@@ -386,10 +392,17 @@ journey
 - 徒 26:14 我们都仆倒在地，我就听见有声音用希伯来话向我说：‘扫罗！扫罗！为什么逼迫我？你用脚踢刺是难的！’
 - 徒 26:15 我说：‘主啊，你是谁？’主说：‘我就是你所逼迫的耶稣。
 ### 盐的主要用途？
-  1.调味
-  2.防腐
-  3.[智慧](https://www.bible.com/bible/48/COL.4.CUNPSS-神)
-### 光
+  1.调味  
+  2.防腐  
+  3.[智慧](https://www.bible.com/bible/48/COL.4.CUNPSS-神) 
+  你们的言语要常常带着和气，好像用盐调和，就可知道该怎样回答各人   
+  希腊语代表失去味道的字实际上又有“变得愚蠢”的意思  
+  
+  > Don't be so heavenly minded that you're no earthly good
+  > Don't be so earthly minded that you're no heavenly good
+### 光 
+> BE LIGHT
+> LIGHT by LIFE
 ![各种光源](https://html.scribdassets.com/5zbhouq1vk8wbqtb/images/1-263fa22921.jpg)
 
 ### 归纳
