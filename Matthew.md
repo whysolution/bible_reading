@@ -392,15 +392,20 @@ journey
 - 徒 26:14 我们都仆倒在地，我就听见有声音用希伯来话向我说：‘扫罗！扫罗！为什么逼迫我？你用脚踢刺是难的！’
 - 徒 26:15 我说：‘主啊，你是谁？’主说：‘我就是你所逼迫的耶稣。
 ### 盐的主要用途？
+[H4417](https://b.ibible.hk/bible/sn/4/H4417) 
+[G0217](https://b.ibible.hk/bible/sn/1/G0217)    
   1.调味  
   2.防腐  
-  3.[智慧](https://www.bible.com/bible/48/COL.4.CUNPSS-神) 
+  3.人体必需品 电介质  
+  4.[智慧](https://www.bible.com/bible/48/COL.4.CUNPSS-神) 
   你们的言语要常常带着和气，好像用盐调和，就可知道该怎样回答各人   
   希腊语代表失去味道的字实际上又有“变得愚蠢”的意思  
   
   > Don't be so heavenly minded that you're no earthly good
   > Don't be so earthly minded that you're no heavenly good
 ### 光 
+[H3974](https://b.ibible.hk/bible/sn/1/H3974) 
+[G5457](https://b.ibible.hk/bible/sn/1/G5457)   
 > BE LIGHT
 > LIGHT by LIFE
 ![各种光源](https://html.scribdassets.com/5zbhouq1vk8wbqtb/images/1-263fa22921.jpg)
