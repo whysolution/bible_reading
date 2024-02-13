@@ -274,17 +274,17 @@ journey
 
 ### 解释
 
-|得居圣山者的品行|论福(接受神国要求的人所应有的态度)|英文（除一福和八福外，用的都是将来式）|
-|---|---|---|
-|[诗篇15](https://www.bible.com/bible/48/PSA.15.CUNPSS-神)|[马太福音5](https://www.bible.com/bible/48/MAT.5.CUNPSS-神)|[NIV](https://www.bible.com/bible/111/MAT.5.NIV) |
-|1耶和华啊，谁能寄居你的帐幕？谁能住在你的圣山？|3虚心的人有福了！因为天国是他们的。|3 “Blessed are the poor in spirit,for theirs **is** the kingdom of heaven.  |
-|2就是行为正直、做事公义、心里说实话的人。|4哀恸的人有福了！因为他们必得安慰。|4 Blessed are those who mourn,for they **will** be comforted. |
-|3他不以舌头谗谤人，不恶待朋友，也不随伙毁谤邻里。|5温柔的人有福了！因为他们必承受地土。|5 Blessed are the meek,for they **will** inherit the earth.  |
-|4他眼中藐视匪类，却尊重那敬畏耶和华的人。他发了誓，虽然自己吃亏也不更改。|6饥渴慕义的人有福了！因为他们必得饱足。|6 Blessed are those who hunger and thirst for righteousness, for they **will** be filled.|
-|5他不放债取利，不受贿赂以害无辜。行这些事的人必永不动摇。|7怜恤人的人有福了！因为他们必蒙怜恤。|7 Blessed are the merciful, for they **will** be shown mercy. |
-||8清心的人有福了！因为他们必得见　神。|8 Blessed are the pure in heart, for they **will** see God. |
-||9使人和睦的人有福了！因为他们必称为　神的儿子。|9 Blessed are the peacemakers, for they **will** be called children of God.|
-||10为义受逼迫的人有福了！因为天国是他们的。|10 Blessed are those who are persecuted because of righteousness, for theirs **is** the kingdom of heaven. |
+|得居圣山者的品行|论福(接受神国要求的人所应有的态度)|英文（除一福和八福外，用的都是将来式）|The Beatitudes|
+|---|---|---|---|
+|[诗篇15](https://www.bible.com/bible/48/PSA.15.CUNPSS-神)|[马太福音5](https://www.bible.com/bible/48/MAT.5.CUNPSS-神)|[NIV](https://www.bible.com/bible/111/MAT.5.NIV) ||
+|1耶和华啊，谁能寄居你的帐幕？谁能住在你的圣山？|3虚心的人有福了！因为天国是他们的。|3 “Blessed are the poor in spirit,for theirs **is** the kingdom of heaven.  | Believe|
+|2就是行为正直、做事公义、心里说实话的人。|4哀恸的人有福了！因为他们必得安慰。|4 Blessed are those who mourn,for they **will** be comforted. | Believe|
+|3他不以舌头谗谤人，不恶待朋友，也不随伙毁谤邻里。|5温柔的人有福了！因为他们必承受地土。|5 Blessed are the meek,for they **will** inherit the earth.  | Belong|
+|4他眼中藐视匪类，却尊重那敬畏耶和华的人。他发了誓，虽然自己吃亏也不更改。|6饥渴慕义的人有福了！因为他们必得饱足。|6 Blessed are those who hunger and thirst for righteousness, for they **will** be filled.| Belong|
+|5他不放债取利，不受贿赂以害无辜。行这些事的人必永不动摇。|7怜恤人的人有福了！因为他们必蒙怜恤。|7 Blessed are the merciful, for they **will** be shown mercy. | Become|
+||8清心的人有福了！因为他们必得见　神。|8 Blessed are the pure in heart, for they **will** see God. | Become|
+||9使人和睦的人有福了！因为他们必称为　神的儿子。|9 Blessed are the peacemakers, for they **will** be called children of God.| Behave|
+||10为义受逼迫的人有福了！因为天国是他们的。|10 Blessed are those who are persecuted because of righteousness, for theirs **is** the kingdom of heaven. | Behave|
 
 [有福了](https://wd.bible/exegesis)
 - Strong Number :	G3107
@@ -314,7 +314,7 @@ journey
 - 路 18:22 耶稣听见了，就说：“你还缺少一件：要变卖你一切所有的，分给穷人，就必有财宝在天上；你还要来跟从我。”
 - 路 19:8 撒该站着对主说：“主啊，我把所有的一半给穷人；我若讹诈了谁，就还他四倍。”
 - 路 21:3 就说：“我实在告诉你们，这穷寡妇所投的比众人还多；
-2. 哀恸的人 (mourn) - 由於令人沮喪的環境或人的狀況而感到悲傷痛苦 哀慟；哀痛；痛心；悲傷；悲哀；為……哭泣
+1. 哀恸的人 (mourn) - 由於令人沮喪的環境或人的狀況而感到悲傷痛苦 哀慟；哀痛；痛心；悲傷；悲哀；為……哭泣
   (不及物：「悲恸，哀伤，悲悼」。与内在和外在的喜乐相反。及物：与人称的直接受格连用：因人的缘故忧愁)
 - 太 5:4 哀恸的人有福了！因为他们必得安慰。
 - 太 9:15 耶稣对他们说：“新郎和陪伴之人同在的时候，陪伴之人岂能哀恸呢？但日子将到，新郎要离开他们，那时候他们就要禁食。
@@ -326,12 +326,12 @@ journey
 - 启 18:11 地上的客商也都为她哭泣悲哀，因为没有人再买他们的货物了；
 - 启 18:15 贩卖这些货物、藉着她发了财的客商，因怕她的痛苦，就远远地站着哭泣悲哀，
 - 启 18:19 他们又把尘土撒在头上，哭泣悲哀，喊着说：“哀哉！哀哉！这大城啊！”凡有船在海中的，都因她的珍宝成了富足，她在一时之间就成了荒场！
-3. 温柔的人(meek) - 温和, 谦卑, 细心
+1. 温柔的人(meek) - 温和, 谦卑, 细心
 - 太 5:5 温柔的人有福了！因为他们必承受地土。
 - 太 11:29 我心里柔和谦卑，你们当负我的轭，学我的样式；这样，你们心里就必得享安息。
 - 太 21:5 “要对锡安的居民说：‘看哪，你的王来到你这里，是温柔的，又骑着驴，就是骑着驴驹子。’”
 - 彼前 3:4 只要以里面存着长久温柔、安静的心为妆饰；这在神面前是极宝贵的。
-4. 饥渴慕义的人(hunger and thirst for righteousness) 「饥饿，使饥饿」,「渴慕」某物，即「强烈的渴慕」某物
+1. 饥渴慕义的人(hunger and thirst for righteousness) 「饥饿，使饥饿」,「渴慕」某物，即「强烈的渴慕」某物
 - 太 4:2 他禁食四十昼夜，后来就饿了。
 - 太 5:6 饥渴慕义的人有福了！因为他们必得饱足。
 - 太 12:1 那时，耶稣在安息日从麦地经过。他的门徒饿了，就掐起麦穗来吃。
@@ -352,10 +352,10 @@ journey
 - 罗 12:20 所以，“你的仇敌若饿了，就给他吃，若渴了，就给他喝；因为你这样行就是把炭火堆在他的头上。”
 - 林前 4:11 直到如今，我们还是又饥又渴，又赤身露体，又挨打，又没有一定的住处，
 - 林前 11:21 因为吃的时候，各人先吃自己的饭，甚至这个饥饿，那个酒醉。
-5. 怜恤人的人(the merciful)  仁慈 / 怜悯~的 / 慈悲 / 怜恤人 / 怜恤~的 / 怜悯 / 怜悯人的 / 怜恤人的
+1. 怜恤人的人(the merciful)  仁慈 / 怜悯~的 / 慈悲 / 怜恤人 / 怜恤~的 / 怜悯 / 怜悯人的 / 怜恤人的
 - 太 5:7 怜恤人的人有福了！因为他们必蒙怜恤。
 - 来 2:17 所以，他凡事该与他的弟兄相同，为要在神的事上成为慈悲忠信的大祭司，为百姓的罪献上挽回祭。
-6. 清心的人(the pure in heart) 洁淨的，纯洁的
+1. 清心的人(the pure in heart) 洁淨的，纯洁的
 - 太 5:8 清心的人有福了！因为他们必得见神。
 - 太 23:26 你这瞎眼的法利赛人，先洗净杯盘的里面，好叫外面也干净了。
 - 太 27:59 约瑟取了身体，用干净细麻布裹好，
@@ -373,9 +373,9 @@ journey
 - 启 19:8 就蒙恩得穿光明洁白的细麻衣。这细麻衣就是圣徒所行的义。
 - 启 19:14 在天上的众军骑着白马，穿着细麻衣，又白又洁，跟随他。
 - 启 21:18 墙是碧玉造的；城是精金的，如同明净的玻璃。
-7. 使人和睦的人(the peacemakers) 缔造和平的 / 使人和睦的 / 追求和平的人 / 促进和平~人 / 使人和平的人
+1. 使人和睦的人(the peacemakers) 缔造和平的 / 使人和睦的 / 追求和平的人 / 促进和平~人 / 使人和平的人
 - 太 5:9 使人和睦的人有福了！因为他们必称为神的儿子。
-8. 受逼迫的人(who are persecuted) 1) 急忙, 跑, 奋勇向前 2) 迫害 (因着信仰) 3) 驱离, 赶走 4) 追逐, 追求
+1. 受逼迫的人(who are persecuted) 1) 急忙, 跑, 奋勇向前 2) 迫害 (因着信仰) 3) 驱离, 赶走 4) 追逐, 追求
 - 太 5:10 为义受逼迫的人有福了！因为天国是他们的。
 - 太 5:11 人若因我辱骂你们，逼迫你们，捏造各样坏话毁谤你们，你们就有福了！
 - 太 5:12 应当欢喜快乐，因为你们在天上的赏赐是大的。在你们以前的先知，人也是这样逼迫他们。”
@@ -417,16 +417,17 @@ journey
 ![各种光源](https://html.scribdassets.com/5zbhouq1vk8wbqtb/images/1-263fa22921.jpg)
 
 ### 归纳
-|品质|应许|时态|
-|---|---|---|
-|灵里贫穷|天国|现在|
-|哀恸|得安慰|将来|
-|温柔|承受地土|将来|
-|饥渴慕义|得饱足|将来|
-|怜恤|蒙怜恤|将来|
-|清心|得见神|将来|
-|使人和睦|称为神的儿子|将来|
-|为义受逼迫|天国|现在|
+(什么品格的人)有福了，因为他们（应许）
+|品质|应许|应许|时态|
+|---|---|---|---|
+|灵里贫穷||天国|现在|
+|哀恸|得安慰||将来|
+|温柔|承受地土||将来|
+|饥渴慕义|得饱足||将来|
+|怜恤|蒙怜恤||将来|
+|清心||得见神|将来|
+|使人和睦||称为神的儿子|将来|
+|为义受逼迫||天国|现在|
 
 - 宝训现在从对门徒品质的概述转到对门徒的直接讲话，告诉他们 这些品质在他们的生活和见证中将会有什么影响
 - 蒙神喜悦的品格，带来神的祝福
