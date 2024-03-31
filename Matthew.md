@@ -681,23 +681,69 @@ timeline
 - 时间，地点，人物，事件以及想表达的内容
 - 耶穌下了山： 他什么时候上的山？在山上都做了什么？在山上有为人治病吗？
 - 大麻疯患者是如何要求耶稣的？耶稣是如何医治的？
+- 4耶穌對他說：「你**切不可告訴人**，只要去**把身體給祭司察看**，獻上摩西所吩咐的禮物，**對眾人作證據**。」是否很矛盾？如果你当时在场，你怎么想？
 - 百夫长的仆人是如何要求耶稣的？耶稣是如何医治的？
 - 百夫长是犹太人吗？做什么的？
 - 10-11节，什么是进入天国的标准？信心还是种族？这对我们有什么意义？
 - 彼得的岳母是如何要求耶稣的？耶稣是如何医治的？
-- 三段治病，比较有什么相同和不同的地方？
+- 比较8和14节，耶稣去人家里的情形
+- 三段治病的对象和过程，观察比较有什么相同和不同的地方？
+- 耶稣为什么离开？
+- 耶稣离开的时候，有什么样的人找他？要干什么？
+- 船被波浪掩蓋的时候，耶稣在做什么？门徒在做什么？
 ### 解释
 - 大麻疯：生理活動過程及狀態 疾病，惡疾，衰弱 可怕的皮膚狀況，包括現今所稱的麻風病，以及某些其他類型的傳染性皮膚病，導致病人被其他人視為在禮儀上不潔淨，因而不得與其他人有正常的社交生活
+- [皮膚病後潔淨的條例](https://www.bible.com/bible/46/LEV.14.CUNP-神)
+- [洁净](https://wd.bible/exegesis)： 2511 katharizo {kath-ar-id'-zo} 源于 2513; TDNT - 3:413,381; 
+动词 AV - cleanse 16, make clean 5, be clean 3, purge 3, purify 3; 30
+  1) (身体上的) 弄干净 
+  2) 医治礼仪上的不洁的疾病 
+  3) (藉着礼仪)使洁净, 宣告洁净
 - 百夫长：罗马军队指挥百人的长官(百夫长)
 - 第七节，中英文比较：
-1.  7耶穌說：「我去醫治他。」
-2.  7Jesus said to him, “Shall I come and heal him?”
+  1. 7耶穌說：「我去醫治他。」
+  2. 7Jesus said to him, “Shall I come and heal him?”
+- [医治](https://wd.bible/exegesis) 2323 therapeuo {ther-ap-yoo'-o} 与 02324 同源; TDNT - 3:128,331; 
+动词 钦定本 - heal 38, cure 5, worship 1; 44
+  1) 服侍 ( 徒 17:25) 
+  2) 医治, 恢复
+- [迦百农](https://biblegeography.holylight.org.tw/index/city?id=98)被称为主耶稣「自己的城」(太9:1-2；可2:1-5)。祂在这里行了许多奇迹：
+  1. 治愈许多人(可1:32-34)，包括一位百夫长的仆人(路7:1-10)、彼得的岳母(可1:21，29-31)、一个被放在褥子上从屋顶上缒下来的瘫子(可2:1-12)，以及一个手枯干了的人(太12:9-13)。
+  2. 耶稣也在这里赶出许多污鬼(可1:21-28，32-34)、使睚鲁的女儿从死里复活(太9:18-19，23-26；可5:22-24，35-43)，
+  3. 在迦百农的会堂里传讲生命的粮(约6:24-59)，并指示彼得在加利利海里捕一条鱼，打开鱼嘴，找到一块钱缴税(太17:24-27)等等。
+- [加大拉](https://biblegeography.holylight.org.tw/index/condensedbible_detail?id=3663&top=0170) 比较 '耶穌上了船，渡過 海 ，來到自己的城裏。 ' [馬太福音 9:1](https://www.bible.com/bible/46/MAT.9.1)
 ### 归纳
+##### 神迹带不来信心，信心可以带来神迹
+##### 不同的人有不同的需要， 耶稣对有不同的医治：他代替我們的軟弱，擔當我們的疾病 
 |事件|如何接近耶稣|如何医治|结果|
 |---|---|---|---|
-|大麻疯|拜，主|伸手摸他，說|洁净， 對眾人作證據|
-|百夫长|進前來，求|一句話|医治|
-|彼得的岳母|躺着|手一摸|熱就退了；她就起來服事耶穌|
-|被鬼附的|被带来|一句話|把鬼都趕出去|
-|被鬼附的|從墳塋裏出來迎着他，神的兒子|一句話|鬼就出來，進入豬羣|
+|大麻疯（边缘人）|拜，主|伸手摸他，說：「我肯，你潔淨了吧！」|洁净 he was cleansed， 對眾人作證據|
+|百夫长（外邦人）|進前來，求|說：「你回去吧！照你的信心，給你成全了。」|医治 the servant was healed|
+|彼得的岳母（家里人）|躺着|耶穌把她的手一摸|熱就退了 the fever left her；她就起來服事耶穌|
+|被鬼附的（软弱的人）|被带来|一句話|把鬼都趕出去 healed all the sick|
+|被鬼附的（被控制的人）|從墳塋裏出來迎着他，喊着說：「神的兒子，我們與你有甚麼相干？時候還沒有到，你就上這裏來叫我們受苦嗎？」|一句話 Go!|鬼就出來，進入豬羣|
+
+讨论 [健康 治疗和医治](https://www.linkedin.com/pulse/healing-vs-curing-alena-candova/)
+  1. According to the World Health Organization, health is “a state of complete physical, mental and social well-being and not merely the absence of disease and infirmity”. This definition indicates health should concern the whole person.
+  2. Healing is focused on resolving the cause of the problem while curing focuses on managing or resolving the symptoms. 
+  3. Healing works from the inside out while curing relies on something outside of you. 
+  4. Healing means becoming whole again
+
+```mermaid
+timeline
+  title 马太福音8章
+  section 耶穌在加利利
+  下了山 : 洁净大麻疯病人 : 医治百夫长仆人 : 医治彼得的岳母 : 医治被鬼附的人
+  許多人圍着耶穌 : 耶穌吩咐渡到那邊去
+  section 离开加利利
+  耶穌上了船 : 門徒跟着他 : 海裏忽然起了暴風  : 耶稣平息风浪
+  section 耶穌在加大拉
+  到达加大拉 : 兩個被鬼附的人從墳塋裏出來迎着他 : 耶稣赶鬼 : 合城的人都出來迎見耶穌 : 央求他離開他們的境界
+```
 ### 应用
+- 神按他们的形象和样式造人，那个状态是最健康的。人因为内里的软弱或者外界的束缚，游离了那个健康状态，医治的过程就是把我们带回到那个健康的过程。
+- 他代替我們的軟弱，擔當我們的疾病。He took up our infirmities and bore our diseases
+- 我们身边，有各种各样的人，我们如何面对他们？
+- 跟随耶稣，有什么样的代价？跟随的意愿与行动为什么会有差别？这种差别会搅扰我们吗？
+- 在外界的喧嚣中，我们如何保持内心的平安？神迹带不来信心，信心可以带来神迹
+- 理想是丰满的，现实是骨感的：我们向往那种健康平和的状态，可是我们周围有太多风浪搅动我们，我们怎么做可以把美好的希望与搅扰的现实链接？生活基督化，基督生活化。 信心！信心！！信心！！！信心是搭建理想与现实之间的桥梁。
