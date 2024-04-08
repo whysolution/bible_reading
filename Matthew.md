@@ -814,6 +814,13 @@ timeline
 ```
 
 ### 解释
+- Take Heart 放心吧
+  1. 「小子，放心吧！你的罪赦了。」
+  2. Take heart, son; your sins are forgiven.”
+  3. to begin to have more courage, determination, or hope; often used as a way of telling someone not to worry or be sad. [from dictionary](https://dictionary.cambridge.org/us/dictionary/english/take-heart)
+   
+  [Take heart by Matthew West on YouTube](https://www.youtube.com/watch?v=-lmeK6LuPgI)
+
 - 血漏(一种月经不调症)，凡血漏女人所碰的东西都 被视为礼仪上不洁之物
 - 以色列民族 由于他们官方的领袖而不再符合神的要求。耶稣的行动中包含着权柄，引起了法利赛人不满和敌意
 - 打發工人出去收他的莊稼。在旧约里，待收的庄稼往往被用来描绘将要来的审判([珥三 13](https://www.bible.com/bible/46/JOL.3.12-13));作工的人并不是(像犹太听众所预期的那样)被差去对万民执行最后审判的天使们，而是被差遣去拯救人们免遭审判的人（丁道尔）。
