@@ -778,10 +778,16 @@ timeline
 - 耶稣对瘫子说了什么？瘫子因此而得医治？
 - 文士（法利赛人）看到有什么反应？这一章中，哪几件事，法利赛人有出现？
 - 除了法利赛人，还有什么人在什么事上挑战耶稣？
+- 施洗者约翰，是为主开路的划时代奇迹般的人物，吃的是蝗虫野蜜，他的门徒却来挑战耶稣的禁食问题。
+  1. 比较第六章耶稣[論禁食](#論禁食) 
+  2. [约翰当时在哪里](https://www.bible.com/bible/46/MAT.11.2-8)  
+  3. 约翰的使命是什么？他的使命继续了吗？- 你們出去到底是要看甚麼？要看穿細軟 衣服 的人嗎？那穿細軟 衣服 的人是在王宮裏。
+  4. 我们再看16-17节，会不会更好理解耶稣为什么这样说？
 - 当耶稣说：“退去吧！這閨女不是死了，是睡着了。”的时候，众人有什么反应？
 - 医治瞎子之后，耶穌切切地囑咐他們什么？结果是什么？
 - 医治哑巴以后，法利賽人对耶稣的态度与前面吃飯相比，有什么变化？
-- 耶稣说：“如同羊沒有牧人一般”时，你如果当时在场，你会感受什么？
+- 耶稣说：“如同羊沒有牧人一般”时，你如果当时在场，你会有什么感受？
+- 当时有文士和祭司等神职人员，当耶稣對門徒說：「要收的莊稼多，做工的人少”，你如果当时在场，你会有什么感受？这些神职人员又会有什么感受？
 
 |患者|如何接近耶稣|如何医治|结果|
 |---|---|---|---|
@@ -820,12 +826,15 @@ timeline
   医治 : 治好癱瘓病人 : 管會堂者的女兒和血漏的女人 : 兩個瞎子得醫治 : 治好啞巴
   挑战 : 文士和法利赛人 : 呼召馬太和与他们一起入席 : 和约翰的门徒论禁食 : 耶穌的憐憫
 ```
-
+- 谁来挑战耶稣和他的门徒禁食的问题？这些人说什么？
+- 施洗约翰曾称法利赛人为毒蛇的子孙，他的门徒为什么又和法利赛人站在了一边？
 ### 解释
 - Take Heart 放心吧
   1. 「小子，放心吧！你的罪赦了。」
   2. Take heart, son; your sins are forgiven.”
-  3. to begin to have more courage, determination, or hope; often used as a way of telling someone not to worry or be sad. [from dictionary](https://dictionary.cambridge.org/us/dictionary/english/take-heart)
+  3. 耶穌轉過來，看見她，就說：「女兒，放心！你的信救了你。」
+  4. Jesus turned and saw her. “Take heart, daughter,” he said, “your faith has healed you.”
+  5. to begin to have more courage, determination, or hope; often used as a way of telling someone not to worry or be sad. [from dictionary](https://dictionary.cambridge.org/us/dictionary/english/take-heart)
    
   [Take heart by Matthew West on YouTube](https://www.youtube.com/watch?v=-lmeK6LuPgI)
 
@@ -842,7 +851,9 @@ timeline
 - 耶穌事工的目的：
   1. 憐憫民众因為他們困苦流離，如同羊沒有牧人一般
   2. 委任门徒们  
-
+- 两种方式寻求医治：
+  1. 自救（自己相信并寻求）：血漏的女人，瞎子 - 认识并克服自己的软弱，因自己的软弱，更需要神的帮助
+  2. 他救（别人相信并帮助）：瘫子，死了的女儿，被鬼附的哑巴 - 不认识或完全软弱无法克服自己的软弱，得到爱心朋友和家人的帮助，被带到神的面前
 ### 运用
-- 如何在实际生活里操练对耶稣能力的相信？
+- 如何在实际生活里操练对耶稣能力的相信？如何寻求神的帮助？
 - 基督徒如何应对外界的挑战和反对？
