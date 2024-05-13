@@ -987,12 +987,15 @@ pie showData title 耶路撒冷的公会
 - 随着耶稣传道活动的开始，约翰宣布的天国已经成了实际，旧制度已开始被取代，
 - [西頓](https://www.bible.com/search/bible?query=西頓)
 - ![西頓](https://ocbf.ca/2019/wp-content/uploads/2020/03/0305a.jpg)
+- [安息](https://www.blueletterbible.org/lexicon/g373/kjv/tr/0-1/) and [ἀναπαύω](https://wd.bible/exegesis)
+- [加利利地區图集](https://bmy.org.hk/以色列（加利利地區）相片集/)
+- ![格拉讯会堂摩西的位子](https://cdn.bmy.org.hk/wp-content/uploads/2020/02/BMY-Chorazin-2.jpg?strip=all&lossy=1&ssl=1&_gl=1*28wv2f*_ga*MTA5MTM2MTkwNi4xNzE1NTk5Mzc2*_ga_RL4DVR631B*MTcxNTU5OTM3NS4xLjEuMTcxNTU5OTQ1My4wLjAuMA..)
 ### 归纳
 - 神不看人的位置和身份，而是看内心，动机不同，神给的结果不同
 - 神不喜悦人的无动于衷，他愿意人負他的軛，學他的樣式
-- 怀疑和无动于衷实际上是另一种拒绝
+- 跟随耶稣，干活不累
 ### 应用
-- 神不看人的身份地位，我们如何看待自己？如何跟随他？
+- 神不看人的身份地位，我们如何看待自己？如何跟随他而得安息？
 
 ## 第十二章
 ### 经文
